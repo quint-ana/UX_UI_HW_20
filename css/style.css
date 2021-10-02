@@ -1,0 +1,33 @@
+.nav {
+    color:black !important;
+}
+
+.title {
+    text-align:center;
+}
+
+/*Process buttons*/
+
+.btn, .button1 {
+    background-color: #E3E0FF !important;
+    color: black;
+    border: #E3E0FF;
+}
+
+img {
+    justify-content: center;
+}
+/*.btn, .button2 {
+    background-color: #D0CCFF !important;
+    color: black;
+}*/
+
+/*.lead {
+    text-align: center;
+}*/
+
+/*.display-4 {
+    text-align:center;
+}*/
+
+/*Nav and Footer*/
